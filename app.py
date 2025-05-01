@@ -20,19 +20,7 @@ except:
     pass
 
 st.subheader("El zorro y las uvas.")
-st.write(' Una cálida tarde de verano, un zorro caminaba por el bosque buscando algo para comer. Tras horas de vagar sin suerte, sintió que el hambre le apretaba el estómago. Justo cuando estaba a punto de rendirse, vio a lo lejos un hermoso racimo de uvas moradas colgando de una parra alta, madura y llena de hojas verdes.
-
-El zorro se relamió los labios y se acercó rápidamente. Las uvas se veían jugosas, brillaban bajo el sol y parecían ser justo lo que necesitaba. Se preparó, tomó impulso y saltó... pero no alcanzó. Lo intentó una y otra vez, dando brincos cada vez más altos, incluso se trepó a un tronco cercano para tener más ventaja, pero todo fue inútil. Las uvas estaban demasiado altas.
-
-Agotado, el zorro se sentó en el suelo jadeando. Miró de nuevo el racimo, suspiró, y se levantó murmurando con desdén:
-—¡Bah! Ni que valieran tanto... seguro estaban verdes y agrias. No me interesaban de verdad.
-
-Y se alejó cojeando lentamente, ocultando su decepción bajo un velo de orgullo.
-
-Moraleja:
-Muchas veces despreciamos lo que no podemos conseguir, no porque no lo deseemos, sino porque no queremos admitir nuestra incapacidad para lograrlo.'
-        
-        )
+st.write(' Una cálida tarde de verano, un zorro caminaba por el bosque buscando algo para comer. Tras horas de vagar sin suerte, sintió que el hambre le apretaba el estómago. Justo cuando estaba a punto de rendirse, vio a lo lejos un hermoso racimo de uvas moradas colgando de una parra alta, madura y llena de hojas verdes. El zorro se relamió los labios y se acercó rápidamente. Las uvas se veían jugosas, brillaban bajo el sol y parecían ser justo lo que necesitaba. Se preparó, tomó impulso y saltó... pero no alcanzó. Lo intentó una y otra vez, dando brincos cada vez más altos, incluso se trepó a un tronco cercano para tener más ventaja, pero todo fue inútil. Las uvas estaban demasiado altas. Agotado, el zorro se sentó en el suelo jadeando. Miró de nuevo el racimo, suspiró, y se levantó murmurando con desdén: —¡Bah! Ni que valieran tanto... seguro estaban verdes y agrias. No me interesaban de verdad. Y se alejó cojeando lentamente, ocultando su decepción bajo un velo de orgullo. Moraleja: Muchas veces despreciamos lo que no podemos conseguir, no porque no lo deseemos, sino porque no queremos admitir nuestra incapacidad para lograrlo. ')
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
