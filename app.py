@@ -20,7 +20,7 @@ except:
     pass
 
 st.subheader("El zorro y las uvas.")
-st.write('Una cálida tarde de verano, un zorro caminaba por el bosque buscando algo para comer. Tras horas de vagar sin suerte, sintió que el hambre le apretaba el estómago. Justo cuando estaba a punto de rendirse, vio a lo lejos un hermoso racimo de uvas moradas colgando de una parra alta, madura y llena de hojas verdes.
+st.write(' Una cálida tarde de verano, un zorro caminaba por el bosque buscando algo para comer. Tras horas de vagar sin suerte, sintió que el hambre le apretaba el estómago. Justo cuando estaba a punto de rendirse, vio a lo lejos un hermoso racimo de uvas moradas colgando de una parra alta, madura y llena de hojas verdes.
 
 El zorro se relamió los labios y se acercó rápidamente. Las uvas se veían jugosas, brillaban bajo el sol y parecían ser justo lo que necesitaba. Se preparó, tomó impulso y saltó... pero no alcanzó. Lo intentó una y otra vez, dando brincos cada vez más altos, incluso se trepó a un tronco cercano para tener más ventaja, pero todo fue inútil. Las uvas estaban demasiado altas.
 
